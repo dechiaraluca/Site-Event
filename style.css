@@ -119,8 +119,8 @@ section {
 
 .carousel-inner img {
   width: 100%;
-  height: 600px; /* fixe une hauteur commune */
-  object-fit: contain; /* ou "contain" si tu préfères tout afficher */
+  height: 600px;
+  object-fit: contain;
 }
 
 .formulaire {
