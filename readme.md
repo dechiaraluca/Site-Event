@@ -4,6 +4,12 @@ Bienvenue sur le dépôt du site web dédié au **festival de détection de mét
 
 ---
 
+## 📸 Aperçu visuel
+
+![Aperçu du site](/Images/Capture d'écran 2025-09-15 104911.png)
+
+---
+
 ## 🚀 Objectif du site
 
 Ce site a pour mission de :
