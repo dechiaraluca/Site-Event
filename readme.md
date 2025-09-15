@@ -6,7 +6,7 @@ Bienvenue sur le dépôt du site web dédié au **festival de détection de mét
 
 ## 📸 Aperçu visuel
 
-![Aperçu du site](Capture_2025-09-15-104911.png)
+![Aperçu du site](/Images/Capture_2025-09-15-104911.png)
 
 ---
 
